@@ -44,7 +44,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Facultad de Ingeniería, Industria y Tecnología](https://udv.edu.gt/facultad/facultad-de-ingenieria/#ingenieria) at [Universidad Da Vinci] (https://udv.edu.gt/).
+- :school: I am a `Junior` at [Facultad de Ingeniería, Industria y Tecnología](https://udv.edu.gt/facultad/facultad-de-ingenieria/#ingenieria) at Universidad Da Vinci (https://udv.edu.gt/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
